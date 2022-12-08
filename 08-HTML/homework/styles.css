@@ -1,0 +1,32 @@
+
+        h1{color: darkblue;}
+        img{width: 400px;}
+        #thirdDiv{
+            height: 600px;
+            width: 500px;
+            background-color: gold;
+            padding: 50px;
+            border: 20px solid darkblue;
+            margin: auto;
+            
+          
+
+        }
+        #spanID{
+            font-size: 18px;
+            margin: 50px;
+        }
+
+        body{
+            background-image: url('https://pbs.twimg.com/profile_images/739582607671853057/7xM0RBlp_400x400.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: 100% 100%;
+            color: darkblue;
+            
+        }
+        .divClass{
+            text-align: center;
+        }
+        
+    
